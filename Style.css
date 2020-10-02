@@ -1,0 +1,24 @@
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+.fa:hover{
+  color:  white;
+  text-decoration: none;
+}
+
+.fa-newspaper-o {
+  color: #CB0000;
+}
+
+.fa-github {
+  color: purple;
+}
+
+
+.fa-instagram {
+  color: blueviolet;
+}
